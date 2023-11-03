@@ -18,6 +18,8 @@
 - Under the nagivation bar and go to `containers`. Then, click `+ containers`, Next, create a name and change the anonymous access level to `container(anonymous read access for containers and blob`. Lastly, click `+ create`.
 - Under the nagivation bar, click `security + networking`. Then, click `front door and CDN`. Under service type, click the `Azure CDN` option. Next, create a profile name and endpoint name. Lastly, change the query string caching behavior to `ignore query string` and click `create`.
 - Go back to the home page and click on the new storage account. Then, click `upload`. Upload a video that is less than 60 seconds and select a container under select an existing container. Lastly, click `upload`.
+- Go back to the home page and click on the new storage account. Under the navigation bar, click `containers`. Then, click on your new container. Click on the content and copy the URL link.
+- Go back to the home page and click on the Front Door and CDN profle. Click the hostname. Click on the endpoint hostname. For the URL, copy everything after .net and combine it with your new hostname. Keep the new link.
 
 ### Flask App With Tailwind CSS
 - 
