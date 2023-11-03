@@ -24,7 +24,7 @@
 ### Flask App With Tailwind CSS
 - For more information about my flask application, click [here.](https://github.com/Beczheng/flask_5_tailwind/tree/main/templates)
 
-### Deploy Flask App on Azure
+### Deployment on Azure
 - In your Cloud Shell terminal, type `curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash`. This will install the Azure CLI.
 - Type `az` to check if Azure CLI is installed.
 - Type `az login --use-device-code`. A link with a code will appear. Click on the link and enter the code. Then, login to your Microsoft Azure account. This will give Cloud Shell permission to access your Azure account.
