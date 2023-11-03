@@ -14,12 +14,14 @@
 - Create or select a name for your resource group and storage account name.
 - Click `create`.
 - Go back to the home page and click on the new storage account.
-- Under the nagivation bar, click `overview`. Scroll down and click `security`. Then, click the enable option for `make sure Secure transfer required`, `allow blob anonymous access`, and `allow storage account key access`. Lastly, save it.
-- Under the nagivation bar and go to`containers`. Then, click `+ containers`, Next, create a name and change the anonymous access level to `container(anonymous read access for containers and blob`. Lastly, click `+ create`.
-- Under the nagivation bar, click `security + networking`. Then, click `front Door and CDN`. Under service type, click the `Azure CDN` option. Next, create a profile name and endpoint name. Lastly, change the query string caching behavior to `ignore query string` and click `create`.
-- Go back to the home page and click on the new storage account. Then, click `upload`. Upload a video that is less than 60 seconds and select a container under select an existing container. Lastly, clikc `upload`.
+- Under the nagivation bar, click `overview`. Scroll down and click `security`. Then, click the enable option for `make sure Secure transfer required`, `allow blob anonymous access`, and `allow storage account key access`. Lastly, click `save`.
+- Under the nagivation bar and go to `containers`. Then, click `+ containers`, Next, create a name and change the anonymous access level to `container(anonymous read access for containers and blob`. Lastly, click `+ create`.
+- Under the nagivation bar, click `security + networking`. Then, click `front door and CDN`. Under service type, click the `Azure CDN` option. Next, create a profile name and endpoint name. Lastly, change the query string caching behavior to `ignore query string` and click `create`.
+- Go back to the home page and click on the new storage account. Then, click `upload`. Upload a video that is less than 60 seconds and select a container under select an existing container. Lastly, click `upload`.
 
 ### Flask App With Tailwind CSS
+- 
 
 ### Cloud Deployment
+-
 
