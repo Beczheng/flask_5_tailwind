@@ -31,6 +31,5 @@
 - Type `az account list --output table`. Make sure that you are using the correct subscription. If not, type `az account set --subscription <SubscriptionId>` to change it.
 - Type `az group list` to double check everything.
 - Type `az webapp up --name <appname> --runtime PYTHON:3.9 --sku B1`. This will create a webapp for your Flask app.
-- To find your Flask app in your Microsoft Azure account, go to "App Services". Then, click on the name of your webapp. Lastly, click on the link to your webapp under "default domain".
 
 
