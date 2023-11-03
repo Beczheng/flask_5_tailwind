@@ -19,7 +19,7 @@
 - Under the nagivation bar, go to security + networking. Then, click `front door and CDN`. Under service type, click the `Azure CDN` option. Next, create a profile name and endpoint name. Lastly, change the query string caching behavior to `ignore query string` and click `create`.
 - Go back to the home page and click on your new storage account. Then, click `upload`. Upload a video that is less than 60 seconds and select an existing container. Lastly, click `upload`.
 - Go back to the home page and click on your new storage account. Under the navigation bar, click `containers`. Then, click on your new container. Lastly, copy the URL link.
-- Go back to the home page and go to Front Door and CDN profle. Then, click on the hostname. Next, click on the endpoint hostname. Lastly, combine the hostname with the URL link (only combine everything after .net) from the container.
+- Go back to the home page and go to Front Door and CDN profle. Then, click on the hostname. Next, click on the endpoint hostname. Lastly, combine the hostname with the URL link (only use everything after .net) from the container. Keep this new link for your flask app.
 
 ### Flask App With Tailwind CSS
 - For more information about my flask application, click [here.](https://github.com/Beczheng/flask_5_tailwind/tree/main/templates)
