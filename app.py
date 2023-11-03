@@ -3,7 +3,7 @@ from flask import Flask, render_template, request, redirect
 app = Flask(__name__)
 
 @app.route('/')
-def mainpage():
+def basepage():
     return render_template('base.html')
 
 @app.route('/about')
