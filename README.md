@@ -22,7 +22,7 @@
 - Go back to the home page and go to Front Door and CDN profle. Then, click on the hostname. Next, click on the endpoint hostname. Lastly, combine the hostname with the URL link (use everything after .net) from the container. Keep this new link for your flask app.
 
 ### Flask App With Tailwind CSS
-- For more information about my flask application, click [here.](https://github.com/Beczheng/flask_5_tailwind/tree/main/templates)
+- For more information on how to create a flask application, click [here.](https://github.com/Beczheng/flask_5_tailwind/tree/main/templates)
 
 ### Deployment on Azure
 - In your Cloud Shell terminal, type `curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash`. This will install the Azure CLI.
