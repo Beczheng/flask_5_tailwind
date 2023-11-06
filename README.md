@@ -14,7 +14,7 @@
 - Create or select a name for your resource group and storage account name.
 - Click `create`.
 - Go back to the home page and click on the your storage account.
-- Under the nagivation bar, go to overview. Scroll down and click `security`. Then, click the `enable` option for `make sure secure transfer required`, `allow blob anonymous access`, and `allow storage account key access`. Lastly, click `save`.
+- Under the nagivation bar, go to overview. Scroll down and click `security`. Then, click the `enable` option for `allow blob anonymous access`. Lastly, click `save`.
 - Under the nagivation bar and go to containers. Then, click `+ containers`, Next, create a name and change the anonymous access level to `container(anonymous read access for containers and blob`. Lastly, click `+ create`.
 - Under the nagivation bar, go to security + networking. Then, click `front door and CDN`. Under service type, click the `Azure CDN` option. Next, create a profile name and endpoint name. Lastly, change the query string caching behavior to `ignore query string` and click `create`.
 - Go back to the home page and click on your new storage account. Then, click `upload`. Upload a video that is less than 60 seconds and select an existing container. Lastly, click `upload`.
