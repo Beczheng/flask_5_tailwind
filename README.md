@@ -30,6 +30,6 @@
 - Type `az login --use-device-code`. A link with a code will appear. Click on the link and enter the code. Then, login to your Microsoft Azure account. This will give Cloud Shell permission to access your Azure account.
 - Type `az account list --output table`. Make sure that you are using the correct subscription. If not, type `az account set --subscription <SubscriptionId>` to change it.
 - Type `az group list` to double check everything.
-- Type `az webapp up --name <appname> --runtime PYTHON:3.9 --sku B1`. This will create a webapp for your Flask app.
+- Type `az webapp up --name <app name> --runtime PYTHON:3.9 --sku B1`. This will create a webapp for your Flask app.
 
 
